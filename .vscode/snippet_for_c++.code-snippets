@@ -1,0 +1,13 @@
+{
+    "back": {
+        "scope": "c++",
+        "prefix": "back",
+        "body": [
+            "<include iostream>",
+            "using namespace std",
+            "int main()",
+            "{}"
+        ],
+        "description": "C++ simple Snippets"
+    }
+}
